@@ -1,6 +1,7 @@
 {
   "name": "intro-nodejs",
   "version": "1.0.0",
+  "type": "module",
   "description": "introduction a nodeJs dans le cadre de ma formation au sein de BeCode",
   "main": "server.js",
   "scripts": {
